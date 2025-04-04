@@ -1,6 +1,6 @@
 <!-- Markdown-->
 Riyat Hosen  
-This is sencond line 
+This is example
 
 ### horizontal rule
 
